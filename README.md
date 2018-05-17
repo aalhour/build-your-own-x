@@ -16,6 +16,7 @@
 - [Network Stack](#build-your-own-network-stack)
 - [Neural Network](#build-your-own-neural-network)
 - [Operating System](#build-your-own-operating-system)
+- [Physics Engine](#build-your-own-physics-engine)
 - [Programming Language](#build-your-own-programming-language)
 - [Regex Engine](#build-your-own-regex-engine)
 - [Shell](#build-your-own-shell)
@@ -39,6 +40,7 @@
 * [**ATS**: *Functional Blockchain*](https://beta.observablehq.com/@galletti94/functional-blockchain)
 * [**Ethereum**: *From “What is Blockchain?” to building a blockchain in less than an hour*](https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d)
 * [**Go**: *Building Blockchain in Go*](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
+* [**Go**: *Code your own blockchain in less than 200 lines of Go*](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
 * [**Haskell**: *A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based public distributed ledger*](https://github.com/adjoint-io/nanocoin)
 * [**Java**: *Creating Your First Blockchain with Java*](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 * [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin)
@@ -176,6 +178,18 @@
 * [**C++**: *Writing a Bootloader*](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [**Rust**: *Writing an OS in Rust*](https://os.phil-opp.com/first-edition/)
 
+#### Build your own `Physics Engine`
+* [**C**: *Game physics series by Allen Chou*](http://allenchou.net/game-physics-series/)
+* [**C**: *Video Game Physics Tutorial*](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
+* [**C++**: *How to Create a Custom Physics Engine*](https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
+* [**C++**: *Game physics series by Glenn Fiedler*](https://gafferongames.com/post/integration_basics/)
+* [**C++**: *3D Physics Engine Tutorial*](https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0) [video]
+* [**C#**: *TowerFall Physics*](https://mattmakesgames.tumblr.com/post/127890619821/towerfall-physics)
+* [**JavaScript**: *Build your own basic physics engine in JavaScript*](https://www.graphitedigital.com/blog/build-your-own-basic-physics-engine-in-javascript)
+* [**JavaScript**: *How Physics Engines Work*](http://buildnewgames.com/gamephysics/)
+* [**JavaScript**: *Broad Phase Collision Detection Using Spatial Partitioning*](http://buildnewgames.com/broad-phase-collision-detection/)
+* [**JavaScript**: *Build a simple 2D physics engine for JavaScript games*](https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/index.html)
+
 #### Build your own `Programming Language`
 * [**C**: *Baby's First Garbage Collector*](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [**C**: *Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code*](http://www.buildyourownlisp.com/)
@@ -240,6 +254,7 @@
 * [**C++**: *Writing a Linux Debugger*](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [**C++**: *How a 64k intro is made*](http://www.lofibucket.com/articles/64k_intro.html)
 * [**C#**: *C# Networking: Create a TCP chater server, TCP games, UDP Pong and more*](https://16bpp.net/tutorials/csharp-networking)
+* [**CSS**: *A search engine in CSS*](https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97)
 * [**Go**: *Build a web application in Go*](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
 * [**Java**: *Build a Flashlight App*](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
 * [**JavaScript**: *Learn JavaScript Promises by Building a Promise from Scratch*](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
