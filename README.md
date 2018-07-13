@@ -9,6 +9,7 @@
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
 * [Bot](#build-your-own-bot)
+* [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
 * [Docker](#build-your-own-docker)
 * [Emulator](#build-your-own-emulator)
@@ -26,6 +27,7 @@
 * [Template Engine](#build-your-own-template-engine)
 * [Text Editor](#build-your-own-text-editor)
 * [Visual Recognition System](#build-your-own-visual-recognition-system)
+* [Voxel Engine](#build-your-own-voxel-engine)
 * [Web Search Engine](#build-your-own-web-search-engine)
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
@@ -72,6 +74,7 @@
 * [**JavaScript**: _Learn & Build a JavaScript Blockchain_](https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e)
 * [**JavaScript**: _Creating a blockchain with JavaScript_](https://github.com/SavjeeTutorials/SavjeeCoin) [video]
 * [**JavaScript**: _How To Launch Your Own Production-Ready Cryptocurrency_](https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371)
+* [**Kotlin**: _Let’s implement a cryptocurrency in Kotlin_](https://medium.com/@vasilyf/lets-implement-a-cryptocurrency-in-kotlin-part-1-blockchain-8704069f8580)
 * [**Python**: _Learn Blockchains by Building One_](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [**Python**: _Build your own blockchain: a Python tutorial_](http://ecomunsing.com/build-your-own-blockchain)
 * [**Python**: _A Practical Introduction to Blockchain with Python_](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
@@ -87,6 +90,7 @@
 * [**Node.js**: _How to make a responsive telegram bot_](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
 * [**Node.js**: _Create a Discord bot_](https://discordjs.guide/)
 * [**Node.js**: _gifbot - Building a GitHub App_](https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html)
+* [**Node.js**: _Building A Simple AI Chatbot With Web Speech API And Node.js_](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)
 * [**Python**: _Chatbot Fundamentals: An interactive guide to writing bots in Python_](https://apps.worldwritable.com/tutorials/chatbot/)
 * [**Python**: _How to Build Your First Slack Bot with Python_](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
 * [**Python**: _Build a Reddit Bot_](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
@@ -95,6 +99,15 @@
 * [**Python**: _Create a Twitter Bot in Python Using Tweepy_](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 * [**Python**: _Creating Reddit Bot with Python & PRAW_](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
 * [**R**: _Build A Cryptocurrency Trading Bot with R_](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
+
+#### Build your own `Command-Line Tool`
+
+* [**C**: _Rewriting the cat command from scratch_](https://learnto.computer/screencasts/bsd-cat) [video]
+* [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
+* [**Go**: _Build a command line app with Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
+* [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
+* [**Go**: _Go CLI tutorial: fortune clone_](https://flaviocopes.com/go-tutorial-fortune/)
+* [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day6_nistow.html#cid16)
 
 #### Build your own `Database`
 
@@ -160,8 +173,8 @@
 * [**C++**: _Breakout_](https://learnopengl.com/In-Practice/2D-Game/Breakout)
 * [**C++**: _Beginning Game Programming v2.0_](http://lazyfoo.net/tutorials/SDL/)
 * [**C++**: _Tetris tutorial in C++ platform independent focused in game logic for beginners_](http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
-* [**C++**: _Remaking Cavestory in C++_](https://www.youtube.com/watch?v=ETvApbD5xRo&list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2MsLa)
-* [**C++**: _Reconstructing Cave Story_](https://www.youtube.com/playlist?list=PL006xsVEsbKjSKBmLu1clo85yLrwjY67X)
+* [**C++**: _Remaking Cavestory in C++_](https://www.youtube.com/watch?v=ETvApbD5xRo&list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2MsLa) [video]
+* [**C++**: _Reconstructing Cave Story_](https://www.youtube.com/playlist?list=PL006xsVEsbKjSKBmLu1clo85yLrwjY67X) [video]
 * [**C++**: _Space Invaders from Scratch_](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
 * [**C#**: _Learn C# by Building a Simple RPG_](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
 * [**C#**: _Creating a Roguelike Game in C#_](https://roguesharp.wordpress.com/)
@@ -195,6 +208,7 @@
 #### Build your own `Neural Network`
 
 * [**C#**: _Neural Network OCR_](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
+* [**F#**: _Building Neural Networks in F#_](https://towardsdatascience.com/building-neural-networks-in-f-part-1-a2832ae972e6)
 * [**Go**: _Build a multilayer perceptron with Golang_](https://made2591.github.io/posts/neuralnetwork)
 * [**Go**: _How to build a simple artificial neural network with Go_](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
 * [**Go**: _Building a Neural Net from Scratch in Go_](https://www.datadan.io/building-a-neural-net-from-scratch-in-go/)
@@ -294,6 +308,7 @@
 * [**C**: _Writing a UNIX Shell_](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 * [**C**: _Build Your Own Shell_](https://github.com/tokenrove/build-your-own-shell)
 * [**C**: _Writing a shell in C_](https://prakashdanish.github.io/2018/01/15/write-a-shell.html)
+* [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
 * [**Ruby**: _A Unix Shell in Ruby_](https://www.jstorimer.com/blogs/workingwithcode/7766107-a-unix-shell-in-ruby)
 
 #### Build your own `Template Engine`
@@ -316,6 +331,12 @@
 * [**Python**: _Driver Drowsiness detection using OpenCV and Python_](http://pythonopencv.com/driver-drowsiness-detection-using-opencv-and-python/)
 * [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
 * [**Python**: _Building a Facial Recognition Pipeline with Deep Learning in Tensorflow_](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
+
+#### Build your own `Voxel Engine`
+
+* [**C++**: _Let's Make a Voxel Engine_](https://sites.google.com/site/letsmakeavoxelengine/home)
+* [**Java**: _Let's make a voxel engine_](https://www.youtube.com/watch?v=C_Fo9PcrVXA&list=PLXa65xzz2vplye7cn1HH4GyE6_FjnDSug&index=1) [video]
+* [**Java**: _Java Voxel Engine Tutorial_](https://www.youtube.com/watch?v=QZ4Vk2PkPZk&list=PL80Zqpd23vJfyWQi-8FKDbeO_ZQamLKJL) [video]
 
 #### Build your own `Web Search Engine`
 
@@ -360,7 +381,6 @@
 * [**Nim**: _Writing a DMIDecode Parser_](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
 * [**Nim**: _Writing a INI Parser_](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
 * [**Nim**: _Writing a Link Checker_](https://xmonader.github.io/nimdays/day4_asynclinkschecker.html#cid10)
-* [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day6_nistow.html#cid16)
 * [**Nim**: _Writing a URL Shortening Service_](https://xmonader.github.io/nimdays/day7_shorturl.html#cid20)
 * [**Node.js**: _Build a static site generator in 40 lines with Node.js_](https://medium.com/douglas-matoso-english/build-static-site-generator-nodejs-8969ebe34b22)
 * [**PHP**: _Write your own MVC from scratch in PHP_ ](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
@@ -372,6 +392,7 @@
 * [**Python**: _A Simple Content-Based Recommendation Engine in Python_](http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html)
 * [**Python**: _Stock Market Predictions with LSTM in Python_](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
 * [**Python**: _Build your own error-correction fountain code with Luby Transform Codes_](https://franpapers.com/en/algorithmic/2018-introduction-to-fountain-codes-lt-codes-with-python/)
+* [**Python**: _Building a simple Generative Adversial Network (GAN) using Tensorflow_](https://blog.paperspace.com/implementing-gans-in-tensorflow/)
 * [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
 * [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
@@ -380,7 +401,8 @@
 
 ## How to contribute
 
-Contributions are very welcome: [Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)
+* Contributions are very welcome: [Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)
+* Help me to review [pending submissions](https://github.com/danistefanovic/build-your-own-x/issues) by leaving comments and "reactions"
 
 ## License
 
