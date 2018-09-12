@@ -125,6 +125,7 @@
 #### Build your own `Docker`
 
 * [**C**: _Linux containers in 500 lines of code_](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+* [**C++**: _Creating your own containers_](http://cesarvr.github.io/post/2018-05-22-create-containers/)
 * [**Go**: _Building a container from scratch in Go_](https://www.youtube.com/watch?v=Utf-A4rODH8) [video]
 * [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
 * [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
@@ -137,6 +138,7 @@
 * [**C++**: _Emulation tutorial (CHIP-8 interpreter)_](http://www.codeslinger.co.uk/pages/projects/chip8.html)
 * [**C++**: _Emulation tutorial (GameBoy emulator)_](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
 * [**C++**: _Emulation tutorial (Master System emulator)_](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
+* [**Common Lisp**: _CHIP-8 in Common Lisp_](http://stevelosh.com/blog/2016/12/chip8-cpu/)
 * [**JavaScript**: _GameBoy Emulation in JavaScript_](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
 * [**Python**: _Emulation Basics: Write your own Chip 8 Emulator/Interpreter_](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
 
@@ -195,6 +197,7 @@
 * [**Python**: _Making Games with Python & Pygame_](https://inventwithpython.com/makinggames.pdf) [pdf]
 * [**Python**: _The Complete Roguelike Tutorial_](https://www.youtube.com/playlist?list=PLKUel_nHsTQ1yX7tQxR_SQRdcOFyXfNAb) [video]
 * [**Ruby**: _Developing Games With Ruby_](https://leanpub.com/developing-games-with-ruby/read)
+* [**Ruby**: _Ruby Snake_](https://www.diatomenterprises.com/gamedev-on-ruby-why-not/)
 
 #### Build your own `Git`
 
@@ -217,7 +220,7 @@
 * [**Go**: _Build a multilayer perceptron with Golang_](https://made2591.github.io/posts/neuralnetwork)
 * [**Go**: _How to build a simple artificial neural network with Go_](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
 * [**Go**: _Building a Neural Net from Scratch in Go_](https://www.datadan.io/building-a-neural-net-from-scratch-in-go/)
-* [**Java**: _Neural Networks: Perceptron_](https://www.youtube.com/watch?v=ntKn5TPHHAk&feature=youtu.be) [video]
+* [**JavaScript / Java**: _Neural Networks - The Nature of Code_](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) [video]
 * [**JavaScript**: _Neural Network implementation in JavaScript, by an example_](https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/)
 * [**JavaScript**: _Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)_](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
 * [**Python**: _A Neural Network in 11 lines of Python_](https://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -262,6 +265,7 @@
 * [**C**: _Baby's First Garbage Collector_](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [**C**: _Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code_](http://www.buildyourownlisp.com/)
 * [**C**: _Writing a Simple Garbage Collector in C_](http://maplant.com/gc.html)
+* [**C**: _C interpreter that interpretes itself._](https://github.com/lotabout/write-a-C-interpreter)
 * [**C++**: _Writing Your Own Toy Compiler Using Flex_](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
 * [**C++**: _How to Create a Compiler_](https://www.youtube.com/watch?v=eF9qWbuQLuw) [video]
 * [**C++**: _Kaleidoscope: Implementing a Language with LLVM_](https://llvm.org/docs/tutorial/LangImpl01.html)
@@ -279,6 +283,7 @@
 * [**JavaScript**: _Little Lisp interpreter_](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 * [**JavaScript**: _How to implement a programming language in JavaScript_](http://lisperator.net/pltut/)
 * [**OCaml**: _Writing a C Compiler_](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+* [**OCaml**: _Writing a Lisp, the series_](https://bernsteinbear.com/blog/lisp/)
 * [**Pascal**: _Let's Build a Compiler_](https://compilers.iecc.com/crenshaw/)
 * [**Python**: _A Python Interpreter Written in Python_](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 * [**Python**: _lisp.py: Make your own Lisp interpreter_](http://khamidou.com/compilers/lisp.py/)
@@ -290,6 +295,7 @@
 * [**Racket**: _Beautiful Racket: How to make your own programming languages with Racket_](https://beautifulracket.com/)
 * [**Ruby**: _A Compiler From Scratch_](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch)
 * [**Ruby**: _Markdown compiler from scratch in Ruby_](https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/)
+* [**Rust**: _So You Want to Build a Language VM_](https://blog.subnetzero.io/post/building-language-vm-part-00/)
 * [**Swift**: _Building a LISP from scratch with Swift_](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
 
 #### Build your own `Regex Engine`
@@ -379,6 +385,7 @@
 * [**C++**: _Writing a Linux Debugger_](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [**C++**: _How a 64k intro is made_](http://www.lofibucket.com/articles/64k_intro.html)
 * [**C#**: _C# Networking: Create a TCP chater server, TCP games, UDP Pong and more_](https://16bpp.net/tutorials/csharp-networking)
+* [**C#**: _Loading and rendering 3D skeletal animations from scratch in C# and GLSL_](https://www.seanjoflynn.com/research/skeletal-animation.html)
 * [**Clojure**: _Building a spell-checker_](https://bernhardwenzel.com/articles/clojure-spellchecker/)
 * [**Java**: _How to Build an Android Reddit App_](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y) [video]
 * [**JavaScript**: _Build Your Own Module Bundler - Minipack_](https://github.com/ronami/minipack)
@@ -394,6 +401,7 @@
 * [**Nim**: _Writing a Link Checker_](https://xmonader.github.io/nimdays/day4_asynclinkschecker.html#cid10)
 * [**Nim**: _Writing a URL Shortening Service_](https://xmonader.github.io/nimdays/day7_shorturl.html#cid20)
 * [**Node.js**: _Build a static site generator in 40 lines with Node.js_](https://medium.com/douglas-matoso-english/build-static-site-generator-nodejs-8969ebe34b22)
+* [**Node.js**: _Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js._](https://codeburst.io/building-a-simple-single-sign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340)
 * [**PHP**: _Write your own MVC from scratch in PHP_ ](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
 * [**PHP**: _Make your own blog_](https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
 * [**Python**: _Build a Deep Learning Library_](https://www.youtube.com/watch?v=o64FV-ez6Gw) [video]
@@ -405,12 +413,14 @@
 * [**Python**: _Stock Market Predictions with LSTM in Python_](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
 * [**Python**: _Build your own error-correction fountain code with Luby Transform Codes_](https://franpapers.com/en/algorithmic/2018-introduction-to-fountain-codes-lt-codes-with-python/)
 * [**Python**: _Building a simple Generative Adversial Network (GAN) using Tensorflow_](https://blog.paperspace.com/implementing-gans-in-tensorflow/)
+* [**Python**: _Learn ML Algorithms by coding: Decision Trees_](https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4)
 * [**Python**: _JSON Decoding Algorithm_](https://github.com/cheery/json-algorithm)
 * [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
 * [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 * [**TypeScript**: _Make your own GraphQL metrics dashboard_](http://all-loops-considered.org/2018/05/09/graphql-metrics-part-1/)
+* [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
 ## How to contribute
 
