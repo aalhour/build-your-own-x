@@ -57,7 +57,7 @@
 #### Build your own `BitTorrent Client`
 
 * [**C#**: _Building a BitTorrent client from scratch in C#_](https://www.seanjoflynn.com/research/bittorrent.html)
-* [**Nim**: _Writing a Bencode Parser_](https://xmonader.github.io/nimdays/day2_bencode.html#cid4)
+* [**Nim**: _Writing a Bencode Parser_](https://xmonader.github.io/nimdays/day02_bencode.html)
 * [**Node.js**: _Write your own bittorrent client_](https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html)
 * [**Python**: _A BitTorrent client in Python 3.5_](http://markuseliasson.se/article/bittorrent-in-python/)
 
@@ -91,6 +91,7 @@
 * [**Node.js**: _Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js_](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
 * [**Node.js**: _How to make a responsive telegram bot_](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
 * [**Node.js**: _Create a Discord bot_](https://discordjs.guide/)
+* [**Node.js**: _Create a Discord bot_](https://www.youtube.com/playlist?list=PLVBD9pLCy6oogSgJuUQzE-99_-voOdSng) [video]
 * [**Node.js**: _gifbot - Building a GitHub App_](https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html)
 * [**Node.js**: _Building A Simple AI Chatbot With Web Speech API And Node.js_](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)
 * [**Python**: _Chatbot Fundamentals: An interactive guide to writing bots in Python_](https://apps.worldwritable.com/tutorials/chatbot/)
@@ -110,7 +111,7 @@
 * [**Go**: _Build a command line app with Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
 * [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
 * [**Go**: _Go CLI tutorial: fortune clone_](https://flaviocopes.com/go-tutorial-fortune/)
-* [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day6_nistow.html#cid16)
+* [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day06_nistow.html)
 
 #### Build your own `Database`
 
@@ -396,10 +397,13 @@
 * [**JavaScript**: _How to Make an Evolutionary Tetris AI_](https://www.youtube.com/watch?v=xLHCMMGuN0Q) [video]
 * [**JavaScript**: _Building a Simple URL Shortener With Just HTML and Javascript_](https://palash.tk/Build-URL-Shortener-With-HTML-JS)
 * [**Kotlin**: _Build Your Own Cache_](http://kezhenxu94.me/2018/05/27/Build-Your-Own-Cache/)
-* [**Nim**: _Writing a DMIDecode Parser_](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
-* [**Nim**: _Writing a INI Parser_](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
-* [**Nim**: _Writing a Link Checker_](https://xmonader.github.io/nimdays/day4_asynclinkschecker.html#cid10)
-* [**Nim**: _Writing a URL Shortening Service_](https://xmonader.github.io/nimdays/day7_shorturl.html#cid20)
+* [**Nim**: _Writing a Redis Protocol Parser_](https://xmonader.github.io/nimdays/day12_resp.html)
+* [**Nim**: _Writing a Build system_](https://xmonader.github.io/nimdays/day11_buildsystem.html)
+* [**Nim**: _Writing a MiniTest Framework_](https://xmonader.github.io/nimdays/day08_minitest.html)
+* [**Nim**: _Writing a DMIDecode Parser_](https://xmonader.github.io/nimdays/day01_dmidecode.html)
+* [**Nim**: _Writing a INI Parser_](https://xmonader.github.io/nimdays/day05_iniparser.html)
+* [**Nim**: _Writing a Link Checker_](https://xmonader.github.io/nimdays/day04_asynclinkschecker.html)
+* [**Nim**: _Writing a URL Shortening Service_](https://xmonader.github.io/nimdays/day07_shorturl.html)
 * [**Node.js**: _Build a static site generator in 40 lines with Node.js_](https://medium.com/douglas-matoso-english/build-static-site-generator-nodejs-8969ebe34b22)
 * [**Node.js**: _Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js._](https://codeburst.io/building-a-simple-single-sign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340)
 * [**PHP**: _Write your own MVC from scratch in PHP_ ](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
