@@ -341,6 +341,7 @@
 * [**C++**: _Designing a Simple Text Editor_](http://www.fltk.org/doc-1.1/editor.html)
 * [**Python**: _Python Tutorial: Make Your Own Text Editor_](https://www.youtube.com/watch?v=xqDonHEYPgA) [video]
 * [**Python**: _Create a Simple Python Text Editor!_](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/)
+* [**Ruby**: _Build a Collaborative Text Editor Using Rails_](https://blog.aha.io/text-editor/)
 
 #### Build your own `Visual Recognition System`
 
@@ -369,7 +370,9 @@
 * [**Python**: _Let’s Build A Web Server._](https://ruslanspivak.com/lsbaws-part1/)
 * [**Python**: _Web application from scratch_](https://defn.io/2018/02/25/web-app-from-scratch-01/)
 * [**Python**: _Building a basic HTTP Server from scratch in Python_](http://joaoventura.net/blog/2017/python-webserver/)
+* [**Python**: _Implementing a RESTful Web API with Python & Flask_](http://blog.luisrei.com/articles/flaskrest.html)
 * [**Ruby**: _Building a simple websockets server from scratch in Ruby_](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
+
 
 #### Uncategorized
 
@@ -396,6 +399,7 @@
 * [**JavaScript**: _JavaScript Algorithms and Data Structures_](https://github.com/trekhleb/javascript-algorithms)
 * [**JavaScript**: _How to Make an Evolutionary Tetris AI_](https://www.youtube.com/watch?v=xLHCMMGuN0Q) [video]
 * [**JavaScript**: _Building a Simple URL Shortener With Just HTML and Javascript_](https://palash.tk/Build-URL-Shortener-With-HTML-JS)
+* [**JavaScript**: _Build a ride hailing app with React Native_](https://pusher.com/tutorials/ride-hailing-react-native)
 * [**Kotlin**: _Build Your Own Cache_](http://kezhenxu94.me/2018/05/27/Build-Your-Own-Cache/)
 * [**Nim**: _Writing a Redis Protocol Parser_](https://xmonader.github.io/nimdays/day12_resp.html)
 * [**Nim**: _Writing a Build system_](https://xmonader.github.io/nimdays/day11_buildsystem.html)
@@ -408,6 +412,7 @@
 * [**Node.js**: _Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js._](https://codeburst.io/building-a-simple-single-sign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340)
 * [**PHP**: _Write your own MVC from scratch in PHP_ ](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
 * [**PHP**: _Make your own blog_](https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
+* [**PHP**: _Modern PHP Without a Framework_](https://kevinsmith.io/modern-php-without-a-framework)
 * [**Python**: _Build a Deep Learning Library_](https://www.youtube.com/watch?v=o64FV-ez6Gw) [video]
 * [**Python**: _How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes_](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
 * [**Python**: _Continuous Integration System_](http://aosabook.org/en/500L/a-continuous-integration-system.html)
